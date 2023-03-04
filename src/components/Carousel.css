@@ -19,7 +19,7 @@
     place-items: center;
     position: relative;
     top: 9em;
-    left: 12em;
+    left: 16em;
 }
 .title h1 {
     z-index: 2;
@@ -34,11 +34,11 @@
     place-items: center;
     top:-10em;
     border-radius: 16px;
-    left: 6em;
+    left: 10em;
     opacity: 0.7;
     font-size: 20px;
 }
 img {
-    height: 500px;
-    width: 440px;
+    height: 700px;
+    width: 640px;
 }
